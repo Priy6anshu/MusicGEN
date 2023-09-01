@@ -1,5 +1,5 @@
 # MusicGEN
-#Dependency Requirements:
+Dependency Requirements:
   numpy
   librosa
   pandas
@@ -10,5 +10,5 @@
   music21
 
 
-#dataset:
+dataset:
   used the kaggle GTZAN dataset directly with only disco genre
